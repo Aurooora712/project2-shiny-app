@@ -67,7 +67,7 @@ install.packages(c(
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ketakiii3/project2-shiny-app.git
+   git clone https://github.com/Aurooora712/project2-shiny-app.git
    cd project2-shiny-app
    ```
 
