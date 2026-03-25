@@ -120,7 +120,7 @@ project2-shiny-app/
 ├── docs/
 │   └── index.html               # GitHub Pages landing page
 └── report/
-    └── Project2_Report.tex      # Final project report (LaTeX)
+    └── Project2_Report.pdf      # Final project report (LaTeX)
 ```
 
 ---
