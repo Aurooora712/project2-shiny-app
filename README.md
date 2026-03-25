@@ -1,6 +1,6 @@
 # TidyKit - Interactive Data Analysis Dashboard
 
-A clean and interactive R Shiny dashboard for data loading, preprocessing, feature engineering, and exploratory data analysis. Built for Columbia University STAT 5243.
+A clean and interactive R Shiny dashboard for data loading, preprocessing, feature engineering, and exploratory data analysis. Built for Columbia University Applied Data Science STAT GR5243.
 
 **Deployed App:** [TidyKit on shinyapps.io](https://kvd2112.shinyapps.io/tidykit/)
 
