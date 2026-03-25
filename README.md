@@ -4,7 +4,7 @@ A clean and interactive R Shiny dashboard for data loading, preprocessing, featu
 
 **Deployed App:** [TidyKit on shinyapps.io](https://kvd2112.shinyapps.io/tidykit/)
 
-**GitHub Pages:** [Project Landing Page]()
+**GitHub Pages:** [Project Landing Page](https://github.com/Aurooora712/project2-shiny-app.git)
 
 ---
 
